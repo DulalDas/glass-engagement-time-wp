@@ -2,7 +2,7 @@
 
 Real reading time and scroll depth per post in WordPress. Counts only while the tab is open and active. No cookies, no external requests.
 
-![Preview](docs/preview.png)
+![Preview](screenshots/preview.png)
 
 ## Install
 
